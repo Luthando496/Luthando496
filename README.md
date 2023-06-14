@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luthando496
+Hi My name is Luthando Didiza
 - 👀 I’m interested in ... Front End Web Development
 - 🌱 I’m currently learning ... Back End With Nodejs
 - 💞️ I’m looking to collaborate on ... Projects
